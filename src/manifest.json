@@ -1,0 +1,38 @@
+{
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{bf3d151d-dcf3-423c-adc9-649bacd35660}"
+    }
+  },
+  "dark_theme": {
+    "colors": {
+      "frame": "hsl(268, 25%, 10%)",
+      "popup": "hsl(265, 35%, 11%)",
+      "popup_text": "hsl(213, 43%, 89%)",
+      "tab_background_text": "hsl(213, 43%, 89%)",
+      "tab_line": "hsl(307, 71%, 47%)",
+      "tab_loading": "hsl(307, 71%, 47%)",
+      "toolbar": "hsl(265, 35%, 11%)",
+      "toolbar_field": "hsl(240, 18%, 17%)",
+      "toolbar_field_text": "hsl(0, 0%, 100%)",
+      "toolbar_text": "hsl(0, 0%, 100%)"
+    }
+  },
+  "manifest_version": 2,
+  "name": "Lavender",
+  "theme": {
+    "colors": {
+      "frame": "hsl(271, 28%, 84%)",
+      "popup": "hsl(266, 100%, 95%)",
+      "popup_text": "hsl(268, 25%, 10%)",
+      "tab_background_text": "hsl(268, 25%, 10%)",
+      "tab_line": "hsl(17, 98%, 64%)",
+      "tab_loading": "hsl(17, 98%, 64%)",
+      "toolbar": "hsl(266, 100%, 95%)",
+      "toolbar_field": "hsla(0, 0%, 100%, 0)",
+      "toolbar_field_text": "hsl(268, 25%, 10%)",
+      "toolbar_text": "hsl(268, 25%, 10%)"
+    }
+  },
+  "version": "1.0.1"
+}

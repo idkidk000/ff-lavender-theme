@@ -1,0 +1,38 @@
+{
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{bf3d151d-dcf3-423c-adc9-649bacd35660}"
+    }
+  },
+  "dark_theme": {
+    "colors": {
+      "frame": "#191320FF",
+      "popup": "#1a1225",
+      "popup_text": "rgb(215, 226, 239)",
+      "tab_background_text": "rgb(215, 226, 239)",
+      "tab_line": "rgb(205, 35, 185)",
+      "tab_loading": "rgb(205, 35, 185)",
+      "toolbar": "#1a1225",
+      "toolbar_field": "#232332FF",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "toolbar_text": "rgb(255, 255, 255)"
+    }
+  },
+  "manifest_version": 2,
+  "name": "Lavender",
+  "theme": {
+    "colors": {
+      "frame": "#D7CBE2FF",
+      "popup": "#EFE3FFFF",
+      "popup_text": "#191320FF",
+      "tab_background_text": "#191320FF",
+      "tab_line": "rgb(253, 124, 73)",
+      "tab_loading": "rgb(253, 124, 73)",
+      "toolbar": "#EFE3FFFF",
+      "toolbar_field": "rgba(255, 255, 255, 0)",
+      "toolbar_field_text": "#191320FF",
+      "toolbar_text": "#191320FF"
+    }
+  },
+  "version": "1.0.1"
+}

@@ -1,0 +1,8 @@
+{
+  "summary": {
+    "en-US": "Trivial Firefox theme with dark/light. Necessary because Firefox ignores Qt / KDE themes. Approximate base themes generated on color dot firefox dot com (URLs are not allowed here) and merged into a single manifest."
+  },
+  "version": {
+    "license": "CC-BY-NC-SA-4.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "[json]": {
+    "editor.defaultFormatter": "denoland.vscode-deno"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "denoland.vscode-deno"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "denoland.vscode-deno"
+  },
+  "biome.enabled": false,
+  "editor.codeActionsOnSave": [],
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "file",
+  "editor.formatOnType": false,
+  "oxc.enable": false,
+  "todo-tree.tree.disableCompactFolders": false,
+  "todo-tree.tree.showBadges": true
+}
